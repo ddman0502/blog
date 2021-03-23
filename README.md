@@ -1,2 +1,2 @@
 # ddman.github.io
-myblog
+ddmanblog
